@@ -8,6 +8,6 @@ class TaledevDiffBlueApplicationTests {
 
 	@Test
 	void contextLoads() {
-	}
+	} 
 
 }
